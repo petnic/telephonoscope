@@ -1,0 +1,3 @@
+REM @chromium-browser
+REM --user-agent="Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1"
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" "C:\Users\Nicholas Peters\Desktop\Telephonoscope\index.html" --disable-infobars --disable-plugins --disable-session-crashed-bubble --disable-tab-switcher --disable-translate --enable-offline-auto-reload --fast --fast-start --kiosk --noerrdialogs --nofirstrun
